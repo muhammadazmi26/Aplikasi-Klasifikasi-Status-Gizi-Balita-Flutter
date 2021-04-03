@@ -1,5 +1,9 @@
 # Klasifikasi Status Gizi Balita - Flutter
 
+Mengklasifikasikan Status Gizi Balita
+
+[sangat kurus] [kurus] [normal] [gemuk]
+
 A new Flutter project.
 
 ## Getting Started
